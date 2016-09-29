@@ -14,7 +14,7 @@ Require `node` and `gulp`.
 ### How to build
 ```
 1. go cmd in root
-2. gulp build
+2. gulp buildjs
 3. in the dist folder will be created uglify file (.min.js)
 ```
 
